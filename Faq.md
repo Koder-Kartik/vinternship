@@ -49,9 +49,16 @@ The program will be conducted strictly in **online mode**.
 Attendance is compulsory for all the standups, please check your Cohort page on the landing page for days and timing of standup for your cohort. Attendance is tracked for all the live session activities. Attendance will be counted **only if your camera remains ON for the entire Zoom session**. If the camera is not switched on for a sustained duration, the session may **not be considered as full attendance**.
 
 **2.3 Do I need to use a specific name or email for the internship?**  
-Yes. You must use the **same name and email ID** used during registration across all platforms (ViBe, GitHub, Cliq, Zoom etc.) for automated tracking of your progress.
+Yes. You must use the **same name and email ID** used during registration across all platforms (ViBe, GitHub, Zoom etc.) for automated tracking of your progress.
 
-**2.4 Should I fill the attendance form attached to the NPTEL offer letter?**  
+**2.4 Can I use my college or non-Gmail email ID for registration?** 
+No. This is VERY IMPORTANT. 
+  ->You must register using a Gmail ID (@gmail.com). 
+  ->Non-Gmail IDs will not be registered 
+  ->Even college Google Workspace emails may cause issues 
+👉 Please ensure you use a personal @gmail.com address while registering. 
+
+**2.5 Should I fill the attendance form attached to the NPTEL offer letter?**  
 Yes. You must fill the **Google Form provided in the NPTEL offer letter** **every day** during your internship (**except Sundays**).
 
 Guidelines:
@@ -62,17 +69,15 @@ Guidelines:
 
 Please ensure that the form is filled **daily** going forward to avoid missing attendance again.
 
-**2.5 I forgot to fill the attendance sheet attached to the NPTEL offer letter yesterday. What should I do now?**  
+**2.6 I forgot to fill the attendance sheet attached to the NPTEL offer letter yesterday. What should I do now?**  
 Unfortunately, there is nothing that can be done, as the form is used for NPTEL’s official database and attendance cannot be recorded for the previous day. The previous day will be considered as a leave.
 
-**2.6 How can I avail the one-day leave allowed every month during the internship?**    
+**2.7 How can I avail the one-day leave allowed every month during the internship?**    
 Taking leave is **discouraged**, as you may miss important updates shared during live sessions or fall behind in your progress. It will be **your own responsibility** to complete the work missed on the leave day.
 
 However, if you must take the leave, follow the steps below:
 
-- Write a message in the **main Cliq Channel/Thread** stating the reason for your leave
-- Tag **@Nitin Sankar A** sir, **@Jinal Gupta** ma’am, and **@Harshdeep R** ma’am in the message
-- Post the request **at least one day in advance**
+- Write a mail to the **Support Desk** stating the reason for your leave
 - Clearly mention:
   - The **reason** for the leave
   - The **exact date** on which you intend to take the leave
@@ -97,10 +102,25 @@ Yes, your project mentors can schedule a meeting based on the doubts and issues 
 ## 4. Support and Resolution Protocol
 
 **4.1 Where do I raise my concern initially?**  
-Initially, try to get your query resolved from the FAQ. Check the Broadcast cliq channel, else from your fellow interns in the Discussion Cliq channel/thread. If the query is still not resolved, you can email your query to the email ID below.
+Initially, try to get your query resolved from the FAQ. Check the Broadcast Telegram channel, else from your fellow interns in the Breakout sessions. If the query is still not resolved, you can email your query to the email ID below.
 
-Email **vinternship-support@vicharanashala.zohodesk.in**.  
+Email **vinternship@vicharanashala.zohodesk.in**.  
 Responses are provided **within 2 hours** between **9:00 AM and 9:00 PM**.
+Any question submitted beyond 9 PM will be answered the next day.
+
+**4.2 What if I don’t receive a response in 24 hours?** 
+If you do not receive a response within 24 hours, you may raise a second ticket.
+In the subject line, mention: "Attention Please – Follow-up on Ticket #[Original Ticket Number]"
+This ticket will be escalated to our Mentors Team, who will reach out to you for a voice call discussion and try to resolve the issue directly.
+
+**4.3 If my concern still isn’t addressed, how do I escalate further?**  
+After 48 hours of your first ticket (and after raising a follow-up), you can escalate the matter via email to the Internship Sponsor, with CC to Prof. Sudarshan Iyengar directly with the following recipients in CC:
+  ->Your department’s faculty reference
+  ->Your department HOD
+  ->The VLED Team at dled@iitrpr.ac.in
+  
+**4.4 Is this process mandatory for all issues?**  
+Yes, to maintain consistency and ensure efficient support, we request all interns to follow this three-step resolution path.
 
 ---
 
@@ -197,7 +217,7 @@ If the issue persists after trying all steps, **record the issue** and email it 
 
 **7.6 I have completed all videos and quizzes in the ViBe course, but my progress is still showing less than 100%. What should I do?**  
 
-Please do not worry. This is a **dashboard-level technical issue** that has already been acknowledged by the support team and communicated in the Cliq threads. The team is actively working on resolving it, and your progress will be **updated automatically** once the issue is fixed.
+Please do not worry. This is a **dashboard-level technical issue** that has already been acknowledged by the support team and communicated. The team is actively working on resolving it, and your progress will be **updated automatically** once the issue is fixed.
 
 In the meantime, you may try the following steps once:
 
@@ -205,6 +225,33 @@ In the meantime, you may try the following steps once:
 2. **Log out**, clear your browser cache, and **log in again**
 
 If the issue still persists after these steps, no further action is required from your side. Your course completion status will be corrected by the support team shortly.
+
+**7.7 I feel the ViBe content or platform is not good or I am unhappy with the way progress is evaluated. Can I request an exception or bypass the system?**  
+
+ViBe is built and continuously improved by interns and students themselves. It is a free and open-source learning platform, and our goal is to keep it that way by encouraging the community to actively contribute, improve, and strengthen it rather than bypass it.
+
+If a learner strongly feels that the regular ViBe flow does not fairly reflect their understanding, there is a formal alternative evaluation path. However, this path is intentionally rigorous to ensure fairness for everyone.
+
+In such cases, you will be asked to:
+
+- Watch the specified YouTube video content completely (links will be provided).
+- Appear for a three-hour proctored examination based only on that content.
+- Write the exam under strict supervision with:
+  - Two cameras (front and side view), and  
+  - One online human proctor monitoring you live.
+
+This examination becomes the sole basis for evaluation in place of the regular internship track.
+
+The scoring rules are strict:
+
+- **Score below 60%**: You are considered not qualified and must join the next cohort and continue only through the normal ViBe mode.
+- **Score between 60% and 80%**: You get one more chance in the next scheduled exam.
+- **Score above 80%**: You are considered to have passed.
+
+This special exam is conducted once every fortnight, so choosing this route may significantly delay your progress compared to continuing normally on ViBe.
+
+Because this path is far more demanding and time-consuming than simply completing the regular videos, quizzes, and activities, most students find that continuing with the standard ViBe workflow is the faster and better option.
+
 
 ---
 
@@ -238,7 +285,7 @@ After completing all ViBe MERN modules:
 3. Read the entire documentation carefully to understand the concept and tasks to be performed.
 4. Try to understand each case study first, then attempt to code a solution for it.
 5. Open a code editor (for example, **VS Code**) and implement the tasks.
-5. Getting stuck is normal. You can ask questions on Cliq, revisit the ViBe videos, and discuss with others.
+5. Getting stuck is normal. You can ask queries to the support desk, revisit the ViBe videos, and discuss with others.
 7. Submit your work using the submission link provided on your cohort specific page.
 
 **8.4 What comes after Case Studies?**  
@@ -275,6 +322,7 @@ You can track your submission status, access the leaderboard, and view the dashb
 **8.9. What next if I completed my Case Studies and I am done with my endorsements?**
 We have some project ideas from the existing open source projects from Vicharanashala Lab for Education Design and Annam.AI listed on the Vinternship website. You can contribute to these real-time open-source projects, working with our developers to build real applications and add new features.
 
+---
 
 ## 9. Ejection Policy
 
