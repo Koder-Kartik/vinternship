@@ -18,6 +18,7 @@ order: 2
 8. [MERN Case Studies](#8-mern-case-studies)
 9. [Ejection Policy](#9-ejection-policy)
 10. [Self-Healing Endorsement Network - Viva/Peer Evaluation System(PES)](#10-self-healing-endorsement-network---vivapeer-evaluation-systempes)
+11. [Health Points and Breakout Sessions](#11-health-points-and-breakout-sessions)
 
 ---
 
@@ -102,7 +103,9 @@ Yes, your project mentors can schedule a meeting based on the doubts and issues 
 ## 4. Support and Resolution Protocol
 
 **4.1 Where do I raise my concern initially?**  
-Initially, try to get your query resolved from the FAQ. Check the Broadcast Telegram channel, else from your fellow interns in the Breakout sessions. If the query is still not resolved, you can email your query to the email ID below.
+Initially, try to get your query resolved from the FAQ and ViSakha. Check the Broadcast Telegram channel, else from your fellow interns in the Breakout sessions. If the query is still not resolved, you can email your query to the email ID below.
+
+ViSakha: https://sakha.vicharanashala.ai/
 
 Email **vinternship@vicharanashala.zohodesk.in**.  
 Responses are provided **within 2 hours** between **9:00 AM and 9:00 PM**.
@@ -121,6 +124,12 @@ After 48 hours of your first ticket (and after raising a follow-up), you can esc
   
 **4.4 Is this process mandatory for all issues?**  
 Yes, to maintain consistency and ensure efficient support, we request all interns to follow this three-step resolution path.
+
+**4.5 Why is it important to follow the deadlines mentioned in tasks and milestones?**
+Each task and milestone is designed to help you progress steadily through the internship. Adhering to the specified deadlines ensures smooth evaluation, proper tracking of your progress, and continued eligibility in the program.
+
+**4.6 What happens if I miss a deadline?**
+Failure to meet a task or milestone deadline may impact your Health Points and could lead to removal from the cohort, as per internship policy. Extensions are generally not provided unless explicitly communicated.
 
 ---
 
@@ -185,6 +194,8 @@ If you see “No course enrolled”:
 - Check if your college email has multiple aliases and try the correct one.
 
 - Log out and log in again once.
+
+- Use personal wifi instead of college wifi as there might be some network restrictions of access.
 
 - If the issue continues, contact support with your registered email ID and a screenshot.
 
@@ -302,10 +313,12 @@ After completing case studies, you move ahead to the Endorsement phase. The Self
    (supported formats include `.js`, `.ts`, `.txt`, `.zip`, etc.)
 4. Review your details and submit the form.
 5. Repeat this process for **each lesson** you complete.
+6. Ensure that the upload has been successful.
 
 
 **8.6 What should I do if a lesson contains multiple files?**  
 For lessons (such as React) that involve **multiple files**, compress all related files into a **single ZIP file** and upload the ZIP file during submission.
+Multiple file submissions are not considered.
 
 
 **8.7 Where can I get help if I am stuck with the case studies?**  
@@ -516,3 +529,39 @@ No, Bhavna ma'am will unfortunately **not conduct Viva sessions anymore**. She w
 Earlier, clearing the Viva conducted by Bhavna ma’am allowed interns to become **Bronze ticket holders**. Since this process has now been discontinued, the **set of existing Jedi (Silver, Bronze, and Gold ticket holders) is fixed**.
 
 No new Jedi will be added through Viva going forward. -->
+
+
+---
+
+## 11. Health Points and Breakout Sessions
+
+**11.1 How do I access my Individual Health Points (HP) page?**   
+You can view your Individual Health Points by following these steps:   
+  - Go to: https://sudarshansudarshan.github.io/vinternship/  
+  - Navigate to your Cohort-specific page 
+  - In the Dashboard section, click Open Dashboard  
+  - Select the Health Points tab  
+  - Choose Individual HP  
+
+This section displays your personal Health Points status.
+
+**11.2 Where can I find activity deadlines (ViBe / Case Study)?**   
+All activity deadlines are available directly on the dashboard:   
+  - Go to: https://sudarshansudarshan.github.io/vinternship/  
+  - Navigate to your Cohort-specific page 
+  - In the Dashboard section, click Open Dashboard  
+  - Select the Health Points tab  
+  - Choose Individual HP  
+
+👉 The respective deadlines are shown under each activity inside the dashboard and cohort specific pages.
+
+**11.3 When are Zoom breakout rooms opened and who can join?**
+Breakout rooms are usually opened after standups (around 9:45 PM) and are generally accessible to two cohorts, unless communicated otherwise.
+
+**11.4 How will I know when the breakout rooms are active? Are they compulsory?**
+Announcements will be made in the Telegram channel when breakout rooms go live. Participation is completely optional.
+
+**11.5 What is the purpose of the breakout rooms?**
+They are intended for informal discussions, doubt clarification, collaboration, and peer support amongst participants.
+
+---
